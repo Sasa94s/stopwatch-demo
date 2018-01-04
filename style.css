@@ -1,0 +1,9 @@
+.container {
+    padding: 30px;
+    margin: 30px;
+}
+
+.row {
+    display: block;
+    margin-bottom: 10px;
+}
